@@ -7,4 +7,4 @@ resources:
   - apps/chat/database
   - apps/chat/frontend
   - apps/chat/ingress
-
+  - apps/chat/policies 
