@@ -22,7 +22,7 @@ spec:
         - name: PORT
           value: "5000"
         - name: MONGODB_URI
-          value: mongodb://mongo.chat.svc.cluster.local:27017/chat
+          value: mongodb://mongo-0.mongo.chat.svc.cluster.local:27017/chat
         - name: JWT_SECRET
           value: change-me-later
 
